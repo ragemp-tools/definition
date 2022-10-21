@@ -4,9 +4,7 @@ Server Descriptions...
 - qb-anticheat
 - qb-boombox
 - qb-brigades
-- qb-casino
 - qb-core
-- qb-fishing
 - qb-hud
 - qb-hunting
 - qb-inventory
@@ -15,6 +13,11 @@ Server Descriptions...
 - qb-metro
 - qb-settings
 - qb-shops
+- qb-vending
+- qb-animals-dev
+- qb-fishing-dev
+- qb-driving-dev
+- qb-casino-dev
 ## Interiors
 - 
 - 
