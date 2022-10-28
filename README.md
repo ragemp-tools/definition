@@ -30,7 +30,8 @@ Server Descriptions...
 - 
 
 ## Command
-- 
+### Menu Admin
+- /admin - opens the admin menu
 - 
 - 
 - 
