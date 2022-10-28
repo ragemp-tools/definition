@@ -30,8 +30,28 @@ Server Descriptions...
 - 
 
 ## Command
-### Menu Admin
+#### Menu Admin
 - /admin - opens the admin menu
-- 
-- 
-- 
+- /blips - toggles player blips
+- /names - toggles player names
+- /coords - shows your current coords
+- /maxmods - sets vehicle to max mods
+- /noclip - toggles noclip
+- /admincar - adds current vehicle to garage
+- /announce [message] - creates an announcement
+- /report [message] - create a report to staff
+- /reportr [message] - replies to a user report
+- /reporttoggle - opt in/out of receiving player reports
+- /staffchat [message] - sends a staff-only message
+- /warn [id] [reason] - warn a player
+- /checkwarns [id] [opt: number] - view a warning for a given player
+- /delwarn [id] [number] - deletes a warning from a player
+- /givenuifocus [id] [hasFocus] [hasCursor] - Sets nuifocus state for player
+- /setmodel [model] [id] - changes the players ped model
+- /setspeed [opt: speed] - sets players foot speed
+- /kickall - kick all players from server
+- /setammo [amount] [opt: weapon] - set weapon ammo
+- /vector2 - Copies vector2 to clipboard
+- /vector3 - Copies vector3 to clipboard
+- /vector4 - Copies vector4 to clipboard
+- /heading - Copies heading
