@@ -136,3 +136,5 @@ Server Descriptions...
 - /vector3 - Copies vector3 to clipboard
 - /vector4 - Copies vector4 to clipboard
 - /heading - Copies heading
+- /setzone - Enables the admin zone around the admin
+- /clearzone - Clears the admin zone of the admin.
